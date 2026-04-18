@@ -24,4 +24,4 @@ A scalable two-tier web application deployed on AWS using EC2, RDS, and an Appli
 - AWS VPC
 
 ## Architecture Diagram
-(Add image later if you want)
+![Architecture](BOAarchitecture.png)
